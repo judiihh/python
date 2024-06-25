@@ -1,2 +1,0 @@
-item="helloworld"
-print(item)
