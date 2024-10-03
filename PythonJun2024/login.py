@@ -10,9 +10,9 @@ while tryagain == "YES":
     loginu = str(input("-Username: "))
     loginp = str(input("-Password: "))
 
-    user1 = "jose22"
-    user2 = "linda90"
-    user3 = "pitita04"
+    user1 = "pitita1"
+    user2 = "pitita2"
+    user3 = "pitita3"
     pass1 = "1234"
     pass2 = "12345"
     pass3 = "123456"
